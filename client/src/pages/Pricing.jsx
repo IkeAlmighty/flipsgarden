@@ -1,11 +1,12 @@
 import { useState } from 'react'
 
-
 function Pricing() {
 
   return (
 		<>
-			hello
+			<div>
+
+			</div>
 		</>
   )
 }
