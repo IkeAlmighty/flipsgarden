@@ -1,6 +1,7 @@
 import { useState } from 'react'
 
-function about() {
+
+function Photos() {
 
   return (
 		<>
@@ -9,4 +10,4 @@ function about() {
   )
 }
 
-export default about
+export default Photos

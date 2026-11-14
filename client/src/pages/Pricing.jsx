@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 
-function photos() {
+function Pricing() {
 
   return (
 		<>
@@ -10,4 +10,4 @@ function photos() {
   )
 }
 
-export default photos
+export default Pricing

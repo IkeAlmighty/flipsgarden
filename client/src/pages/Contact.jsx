@@ -1,7 +1,6 @@
 import { useState } from 'react'
 
-
-function App() {
+function Contact() {
 
   return (
 		<>
@@ -10,4 +9,4 @@ function App() {
   )
 }
 
-export default App
+export default Contact
