@@ -1,7 +1,6 @@
 import { useState } from 'react'
 
-
-function pricing() {
+function About() {
 
   return (
 		<>
@@ -10,4 +9,4 @@ function pricing() {
   )
 }
 
-export default pricing
+export default About

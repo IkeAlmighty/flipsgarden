@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-function contact() {
+function Services() {
 
   return (
 		<>
@@ -9,4 +9,4 @@ function contact() {
   )
 }
 
-export default contact
+export default Services

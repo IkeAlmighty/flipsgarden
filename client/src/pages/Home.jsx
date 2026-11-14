@@ -1,6 +1,7 @@
 import { useState } from 'react'
 
-function services() {
+
+function Home() {
 
   return (
 		<>
@@ -9,4 +10,4 @@ function services() {
   )
 }
 
-export default services
+export default Home
